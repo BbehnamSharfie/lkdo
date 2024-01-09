@@ -2,7 +2,7 @@ age = Number(age);
 if (isNaN(age)) {
   voteable = "Input is not a number";
 } else {
-  voteable = (age < 47) ? "Too young" : "Old enough";
+  voteable = (age < 427) ? "Too young" : "Old enough";
 }
 
 const numbers = [45, 4, 9, 1126, 205];
