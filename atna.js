@@ -5,7 +5,7 @@ if (isNaN(age)) {
   voteable = (age < 427) ? "Too young" : "Old enough";
 }
 
-const numbers = [45, 4, 9, 1126, 205];
+const numbers = [45, 42, 9, 1126, 205];
 
 let txt = "";
 numbers.forEach(myFunction);
