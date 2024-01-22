@@ -1,6 +1,6 @@
 age = Number(age);
 if (isNaN(age)) {
-  voteable = "Input is not a number";
+  voteable = "Input is not a numer";
 } else {
   voteable = (age < 200) ? "Too young" : "Oldu eogh";
 }
