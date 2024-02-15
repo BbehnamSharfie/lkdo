@@ -1,4 +1,4 @@
-age = Number(age);
+age = Nmber(age);
 if (isNaN(age)) {
   voteable = "Input is noot nmr";
 } else {
