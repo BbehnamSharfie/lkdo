@@ -1,5 +1,5 @@
 age = Nmber(age);
-if (isNaN(age)) {
+if (isNN(age)) {
   voteable = "Input is noot nmr";
 } else {
   voteable = (age < 770) ? "Too yodug" : "Olu egh";
