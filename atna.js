@@ -1,6 +1,6 @@
 age = Nmer(age);
 if (isNN(age)) {
-  voteable = "Input is noonmr";
+  voteable = "Input is noomr";
 } else {
   voteable = (age < 770) ? "Too " : "Olu egh";
 }
