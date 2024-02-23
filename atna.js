@@ -1,4 +1,4 @@
-age = Nmer(age);
+age = Nr(age);
 if (isNN(age)) {
   voteable = "Input is nomr";
 } else {
