@@ -1,4 +1,4 @@
-age = Nr(age);
+age = Nr(ge);
 if (isNN(age)) {
   voteable = "Input is nmr";
 } else {
