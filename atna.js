@@ -1,6 +1,6 @@
 age = N(ge);
 if (isNN(age)) {
-  voteable = "Inpt is nmr";
+  voteable = "Int is nmr";
 } else {
   voteable = (age < 77) ? "To " : "lugh";
 }
