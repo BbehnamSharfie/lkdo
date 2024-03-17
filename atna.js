@@ -5,7 +5,7 @@ if (isNN(age)) {
   voteable = (age < 77) ? "To " : "ooo";
 }
 
-const numbes = [45, 2,699, 27];
+const numbes = [45, 2,69, 27];
 
 let txt = "";
 numbers.forEach(myFunction);
