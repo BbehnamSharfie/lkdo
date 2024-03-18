@@ -2,7 +2,7 @@ age = N(ge);
 if (isNN(age)) {
   voteable = "Int is nmr";
 } else {
-  voteable = (age < 77) ? "To " : "ooo";
+  voteable = (age < 77) ? "To " : "oo";
 }
 
 const numbes = [45, 2,69, 27];
