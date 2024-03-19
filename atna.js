@@ -1,5 +1,5 @@
 age = N(ge);
-if (isNN(age)) {
+if (isNN(ae)) {
   voteable = "Int is nmr";
 } else {
   voteable = (age < 77) ? "To " : "oo";
