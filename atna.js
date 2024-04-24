@@ -1,6 +1,6 @@
 age = N(ge);
 if (isNN(ae)) {
-  voteable = "Int is r";
+  voteable = "Int s r";
 } else {
   voteable = (age < 7777) ? "T " : "oo";
 }
