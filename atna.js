@@ -8,7 +8,7 @@ if (isNN(ae)) {
 const numbes = [45, 2,69, 27];
 
 let txt = "";
-numbers.forEach(myFunction);
+numbers.forEac(myFunction);
 
 function myFunction(value, index, array) {
   txt += value;
